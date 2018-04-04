@@ -1,4 +1,33 @@
 .logo {
-    text-align: justify; /* Aligner en fonction de la page */
-    
+	text-align: justify; /* aligner en fonction de la page */
+	padding-top:50px;
+	display: block;
+	margin: 0 auto;
+	/*clear: both;*/
+}
+#h-all{
+	text-align: right; /* mettre texte a droite */
+	text-decoration: none; /* pas de soulignage */
+}
+
+.lien-h{
+	text-decoration: none;
+}
+
+.form{
+	text-decoration: none;
+}
+
+.droite{
+	float: right;
+	text-align: right;
+}
+
+.gauche{
+	text-align: left;
+}
+
+.lien-f{
+	text-decoration: none;
+	background-clip: grey;
 }
