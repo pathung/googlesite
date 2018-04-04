@@ -1,4 +1,4 @@
-html,body {
-    height:100%;
-    margin:0
-   }
+.logo {
+    text-align: justify; /* Aligner en fonction de la page */
+    
+}
